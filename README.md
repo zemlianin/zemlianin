@@ -1,9 +1,18 @@
-### Hi there 👋
+## Hi there 👋
+### About me:
+
 - 👋 John Dribnokhod, 18, Student of Higher School of Economics, he/his
 - 🧠 Microservises, .Net, DataScience
 - 💻 ASP.Net Core, EF Core, SQL, PostgreSQL, REST, SOLID, Docker
 - 👨‍🎓 Software Engineering at Higher School of Economics - in progress
 - 📫 detulie@mail.ru or @ser_zemlianin (vk, tg)
+
+
+### Some statistic from GitHub:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zemlianin)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zemlianin&layout=compact)
 <!--
 **zemlianin/zemlianin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
