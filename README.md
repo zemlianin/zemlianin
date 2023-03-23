@@ -1,10 +1,11 @@
 ## Hi there 👋
 ### About me:
 
-- 👋 John Dribnokhod, 18, Student of Higher School of Economics, he/his
-- 🧠 Microservises, .Net, DataScience
-- 💻 ASP.Net Core, EF Core, SQL, PostgreSQL, REST, SOLID, Docker
+- 👋 John Dribnokhod, 19, Student of Higher School of Economics, he/his
+- 🧠 Microservises, .Net, DevOps
+- 💻 ASP.Net Core, EF Core, SQL, ClickHouse, PostgreSQL, Docker, REST, SOLID
 - 👨‍🎓 Software Engineering at Higher School of Economics - in progress
+- 👨‍🔧 Intern, Laboratory Kaspersky 
 - 📫 detulie@mail.ru or @ser_zemlianin (vk, tg)
 
 <!--
