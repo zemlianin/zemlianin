@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### About me:
 
-- 👋 John Dribnokhod, 19, Student of Higher School of Economics, he/his
+- 👋 John Dribnokhod, 20, Student of Higher School of Economics, he/his
 - 🧠 Microservises, .Net, DevOps
 - 💻 ASP.Net Core, EF Core, SQL, ClickHouse, PostgreSQL, Docker, REST, SOLID
 - 👨‍🔧 Intern, Laboratory Kaspersky 
